@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-AirQuality-AirQualityUITests/Pods-AirQuality-AirQualityUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
